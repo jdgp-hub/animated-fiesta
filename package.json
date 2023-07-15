@@ -36,8 +36,8 @@
 	},
 	"devDependencies": {
 		"@sindresorhus/tsconfig": "^0.2.0",
-		"ava": "^1.0.1",
-		"chrome-webstore-upload-cli": "^1.2.0",
+		"ava": "^5.3.1",
+		"chrome-webstore-upload-cli": "^2.2.2",
 		"copy-webpack-plugin": "^4.5.1",
 		"dot-json": "^1.0.4",
 		"esm": "^3.0.84",
@@ -53,7 +53,7 @@
 		"web-ext-submit": "^7.6.2",
 		"webpack": "^4.28.3",
 		"webpack-cli": "^3.1.0",
-		"xo": "^0.24.0"
+		"xo": "^0.54.2"
 	},
 	"xo": {
 		"parser": "typescript-eslint-parser",
